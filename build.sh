@@ -1,5 +1,7 @@
 #!/bin/bash
 
+npm install
+
 echo "Empezando"
 
 npm run build
